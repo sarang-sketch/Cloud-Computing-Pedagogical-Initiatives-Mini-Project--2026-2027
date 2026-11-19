@@ -6,7 +6,8 @@ This folder contains the deliverables for **MGM Loop**.
 |------|-------------|
 | [MGM-Loop-Project-Report.pdf](MGM-Loop-Project-Report.pdf) | Final 82-page project report (PDF) |
 | [MGM-Loop-Project-Report.docx](MGM-Loop-Project-Report.docx) | Editable Word source of the report |
-| [MGM-Loop-Presentation.pdf](MGM-Loop-Presentation.pdf) | 10-slide project presentation |
+| [MGM-Loop-Presentation.pdf](MGM-Loop-Presentation.pdf) | 10-slide project presentation (primary) |
+| [MGM-Loop-Presentation.pptx](MGM-Loop-Presentation.pptx) | PowerPoint copy of the same 10 slides, with each slide as an image |
 | [diagrams/](diagrams) | 20 architecture, DFD, ER, security, deployment and testing diagrams |
 | [screenshots/](screenshots) | 49 screenshots of the product on phone, tablet and desktop |
 

@@ -47,7 +47,7 @@ Department of Computer Science & Engineering · Academic Year 2026–27
 | Deliverable | Link | What is inside |
 |-------------|------|----------------|
 | **Project report** | [MGM-Loop-Project-Report.pdf](docs/MGM-Loop-Project-Report.pdf) | 82-page report: abstract, literature survey, system design, database, security, implementation, testing, results and future scope |
-| **Presentation** | [MGM-Loop-Presentation.pdf](docs/MGM-Loop-Presentation.pdf) | 10-slide project presentation |
+| **Presentation** | [PDF](docs/MGM-Loop-Presentation.pdf) · [PPTX](docs/MGM-Loop-Presentation.pptx) | 10-slide project presentation; the PPTX is a PowerPoint copy with the same slides as images |
 | **Editable report** | [MGM-Loop-Project-Report.docx](docs/MGM-Loop-Project-Report.docx) | Word source of the report |
 | **Screenshots** | [docs/screenshots](docs/screenshots) | 49 screenshots of the student and moderation experience on phone, tablet and desktop |
 | **Diagrams** | [docs/diagrams](docs/diagrams) | 20 architecture, DFD, ER, security, deployment and testing diagrams |
@@ -261,7 +261,8 @@ The full test cases, screenshots, measurements, defects found and limitations ar
 ├── docs/
 │   ├── MGM-Loop-Project-Report.pdf      # 82-page project report
 │   ├── MGM-Loop-Project-Report.docx     # editable report source
-│   ├── MGM-Loop-Presentation.pdf        # 10-slide presentation
+│   ├── MGM-Loop-Presentation.pdf        # 10-slide presentation (primary)
+│   ├── MGM-Loop-Presentation.pptx       # PowerPoint copy (image-based)
 │   ├── diagrams/                        # 20 design and architecture diagrams
 │   └── screenshots/                     # 49 screenshots of the product
 └── source-preview/
