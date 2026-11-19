@@ -1,0 +1,12 @@
+# Local-only files and build output (this is a showcase snapshot)
+.env
+.env.local
+.env*.local
+.insforge/
+node_modules/
+.next/
+.open-next/
+.wrangler/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db

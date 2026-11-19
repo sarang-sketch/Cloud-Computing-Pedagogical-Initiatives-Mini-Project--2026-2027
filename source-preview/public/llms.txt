@@ -1,0 +1,20 @@
+# MGM Loop
+
+> MGM Loop is a private social learning network for students of MGM College of Engineering, Nanded (India). Only students who sign in with a verified @mgmcen.ac.in Google account can join. Tagline: "Learn. Share. Connect."
+
+Everything inside MGM Loop (profiles, posts, stories, notes, events and messages) is visible only to signed-in students. The public page is the introduction at the site root.
+
+## What students can do
+
+- Campus feed of posts, photos, questions and projects, ranked by class, department, people you follow, engagement and freshness
+- 24-hour photo and video stories
+- Resource library of notes, slides and question papers tagged by subject and semester
+- Ask and answer academic questions
+- Department-wise schedule of classes, tests, workshops, placement talks and fests, with Going / Interested and calendar export
+- Private messages that start as a one-message request until the recipient accepts
+- Student profiles with department, year, semester, followers and following
+- Search for students, posts and resources; live notifications
+
+## Not covered
+
+Admissions, results and official notices are published on the college website: https://mgmcen.ac.in/
