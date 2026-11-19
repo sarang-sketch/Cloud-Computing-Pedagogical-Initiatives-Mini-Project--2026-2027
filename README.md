@@ -202,10 +202,10 @@ the feed.
 
 | Metric | Value |
 |--------|-------|
-| Application | 153 TypeScript/TSX files, 22,119 lines, 32 pages, 3 API route handlers |
-| Database | PostgreSQL 15.18: 26 tables, 11 views, 213 functions, 27 row-level security policies, 39 triggers, 122 indexes and 59 foreign keys |
-| Migrations | 11 SQL migrations, 8,421 lines |
-| Media edge function | About 610 lines of Deno/TypeScript |
+| Application (full project) | 153 TypeScript/TSX files, 22,119 lines, 32 pages, 3 API route handlers |
+| Database (full project) | PostgreSQL 15.18: 26 tables, 11 views, 213 functions, 27 row-level security policies, 39 triggers, 122 indexes and 59 foreign keys |
+| Migrations (full project) | 11 SQL migrations, 8,421 lines |
+| Media edge function (full project) | About 610 lines of Deno/TypeScript |
 | Automated checks | 153 acceptance, access-control, layout and deployment checks passed |
 | Performance | Median load time of 1.2 s across 45 measured page loads |
 | Report | 82 pages |
